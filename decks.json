@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Elven Empire",
+    "colors": "Black and Green",
+    "set": "Kaldheim"
+  },
+  {
+    "name": "Phantom Premonition",
+    "colors": "White and Blue",
+    "set": "Kaldheim"
+  },
+  {
+    "name": "Silverquill Statement",
+    "colors": "White and Black",
+    "set": "Strixhaven: School of Mages"
+  },
+  {
+    "name": "Prismari Performance",
+    "colors": "Blue and Red",
+    "set": "Strixhaven: School of Mages"
+  },
+  {
+    "name": "Witherbloom Witchcraft",
+    "colors": "Black and Green",
+    "set": "Strixhaven: School of Mages"
+  },
+  {
+    "name": "Lorehold Legacies",
+    "colors": "White and Red",
+    "set": "Strixhaven: School of Mages"
+  },
+  {
+    "name": "Quantum Quandrix",
+    "colors": "Blue and Green",
+    "set": "Strixhaven: School of Mages"
+  },
+  {
+    "name": "Aura of Courage",
+    "colors": "Green White Blue",
+    "set": "Dungeons & Dragons: Adventures in the Forgotten Realms"
+  },
+  {
+    "name": "Dungeons of Death",
+    "colors": "White Blue Black",
+    "set": "Dungeons & Dragons: Adventures in the Forgotten Realms"
+  },
+  {
+    "name": "Draconic Rage",
+    "colors": "Red and Green",
+    "set": "Dungeons & Dragons: Adventures in the Forgotten Realms"
+  },
+  {
+    "name": "Planar Portal",
+    "colors": "Black and Red",
+    "set": "Dungeons & Dragons: Adventures in the Forgotten Realms"
+  },
+  {
+    "name": "Coven Counters",
+    "colors": "White and Green",
+    "set": "Innistrad: Midnight Hunt"
+  },
+  {
+    "name": "Undead Unleashed",
+    "colors": "Blue and Black",
+    "set": "Innistrad: Midnight Hunt"
+  },
+  {
+    "name": "Spirit Squadron",
+    "colors": "White and Blue",
+    "set": "Innistrad: Crimson Vow"
+  },
+  {
+    "name": "Vampiric Bloodline",
+    "colors": "Red and Black",
+    "set": "Innistrad: Crimson Vow"
+  },
+  {
+    "name": "Buckle Up",
+    "colors": "White and Blue",
+    "set": "Kamigawa: Neon Dynasty"
+  },
+  {
+    "name": "Upgrades Unleashed",
+    "colors": "Red and Green",
+    "set": "Kamigawa: Neon Dynasty"
+  },
+  {
+    "name": "Obscura Operation",
+    "colors": "White Blue Black",
+    "set": "Streets of New Capenna"
+  },
+  {
+    "name": "Maestros Massacre",
+    "colors": "Blue Black Red",
+    "set": "Streets of New Capenna"
+  },
+  {
+    "name": "Riveteers Rampage",
+    "colors": "Black Red Green",
+    "set": "Streets of New Capenna"
+  },
+  {
+    "name": "Cabaretti Cacophony",
+    "colors": "White Red Green",
+    "set": "Streets of New Capenna"
+  },
+  {
+    "name": "Bedecked Brokers",
+    "colors": "White Blue Green",
+    "set": "Streets of New Capenna"
+  }
+]
